@@ -1,0 +1,15 @@
+In this folders the data will be stored in images as image with unique numbers using a library called "uuid"
+all the Images in images folder are converted into json file which stored into labels folders. ( to read the image),
+later the data is seperated by train, test and val. 
+
+for example: 
+if we have all the images count = 213
+213 will convert into json file and stored into labels folder. now 213 will divide by 70/30, ( 70 to train and 30 to test and val(15 each))
+
+let's do a small calculation, so we can know how the data is distributed:
+213*.7 = 149.1~ 150   # 150 to train
+213*.15 = 31.95 ~ 32   # 32 and 31 to test and val
+
+later in train, test and val folders, I've created 2 sub folders in every folders named (images and val) 
+
+we have to divide the images and json files too. which distributing in train, test, val.
