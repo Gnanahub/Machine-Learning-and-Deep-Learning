@@ -2,5 +2,5 @@
 • Engineered a powerful deep learning model, incorporating a customized loss function and optimizing training for real-time face detections, ensuring exceptional accuracy and reliability.
 
 
-
+Note: In cell 4, use the code to automatically capture the image of yourself to create your own dataset, if you already have a dataset pplease ignore.
 
