@@ -13,3 +13,6 @@ let's do a small calculation, so we can know how the data is distributed:
 later in train, test and val folders, I've created 2 sub folders in every folders named (images and val) 
 
 we have to divide the images and json files too. which distributing in train, test, val.
+
+Note: I've not uploaded any images cause all the images are confidential, you can add your own images in image folder. 
+using augment images will generate 30X times.
