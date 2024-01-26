@@ -1,0 +1,20 @@
+Generative adversarial Neural Network (GAN's) 
+In this Project we used Fashion Dataset from tensorflow API.
+
+Let's go further steps involved in the project.
+
+Step 1:
+Setup Environment
+ • Breakdown
+                                       
+Step 2:
+Visualize data & Build data pipeline
+
+Step 3:
+Build the Neural Network
+
+Step 4:
+Build a custom training loop
+
+Step 5:
+Generating images and Save the model
