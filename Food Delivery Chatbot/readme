@@ -1,1 +1,5 @@
+In this Repo,
+We'll create a chatbot using Dialogflow for a food delivery system, covering basics like intents, entities, and contexts. 
+Additionally, we'll build a Python backend with FastAPI, integrate with a MySQL database, and explore more advanced features.
 
+** Clear explanation will be added soon **
